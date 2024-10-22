@@ -1,1 +1,2 @@
 changes from feature branch
+New changes to feature branch
